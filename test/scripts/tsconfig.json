@@ -1,6 +1,0 @@
-{
-  "extends": "../tsconfig/tsconfig.test.root.scripts.json",
-  "compilerOptions": {
-    "types": ["node", "vitest"]
-  }
-}
