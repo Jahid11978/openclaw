@@ -3,7 +3,7 @@
 > **This repository is Jahid's personal fork**
 > ([Jahid11978/openclaw](https://github.com/Jahid11978/openclaw)), maintained
 > under the JAHIDS.AI platform by **Jahid**
-> (jahid11978@outlook.com). For this fork, contact the owner directly — use
+> (<jahid11978@outlook.com>). For this fork, contact the owner directly — use
 > [SECURITY.md](SECURITY.md) for vulnerabilities. The upstream contribution
 > workflow is documented below for reference.
 
@@ -11,8 +11,8 @@ Welcome to the lobster tank! 🦞
 
 ## Quick Links
 
-- **This fork:** https://github.com/Jahid11978/openclaw
-- **Upstream:** https://github.com/openclaw/openclaw
+- **This fork:** [Jahid11978/openclaw](https://github.com/Jahid11978/openclaw)
+- **Upstream:** [openclaw/openclaw](https://github.com/openclaw/openclaw)
 - **Vision:** [`VISION.md`](VISION.md)
 - **Discord:** https://discord.gg/clawd
 - **X/Twitter:** [@openclaw](https://x.com/openclaw)
