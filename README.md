@@ -1,9 +1,17 @@
 ---
 
-**Owner:** Jahid  
-**Email:** jahid11978@outlook.com  
-**Platform:** JAHIDS.AI  
-**Organization:** mdjahid11978-design  
+- **Owner:** Jahid
+- **Email:** jahid11978@outlook.com
+- **Platform:** JAHIDS.AI
+- **Organization:** mdjahid11978-design
+- **Repository:** [Jahid11978/openclaw](https://github.com/Jahid11978/openclaw)
+- **Upstream:** [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
+> **Fork notice:** This repository is Jahid's personal fork of OpenClaw,
+> maintained under the JAHIDS.AI platform. Repository content and ownership
+> questions belong to the owner above; report security issues through
+> [SECURITY.md](SECURITY.md). Third-party attributions are retained in
+> [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ---
 
@@ -17,10 +25,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/openclaw/openclaw/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/openclaw/openclaw/ci.yml?branch=main&style=flat-square&label=ci" alt="CI status"></a>
+  <a href="https://github.com/Jahid11978/openclaw"><img src="https://img.shields.io/badge/fork-Jahid11978-blue?style=flat-square" alt="Maintained fork: Jahid11978"></a>
   <a href="https://www.npmjs.com/package/openclaw"><img src="https://img.shields.io/npm/v/openclaw?style=flat-square&label=npm" alt="npm version"></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/node/v/openclaw?style=flat-square" alt="Node.js version"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License: MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=flat-square" alt="License: All Rights Reserved"></a>
   <a href="https://discord.gg/clawd"><img src="https://img.shields.io/discord/1456350064065904867?label=discord&logo=discord&logoColor=white&color=5865F2&style=flat-square" alt="Discord"></a>
 </p>
 
@@ -105,7 +113,7 @@ Tools run on the host for the main session unless you configure sandboxing. Read
 The repository is a pnpm workspace. Plain `npm install` at the repository root is not supported.
 
 ```bash
-git clone https://github.com/openclaw/openclaw.git
+git clone https://github.com/Jahid11978/openclaw.git
 cd openclaw
 pnpm install
 pnpm build
@@ -116,7 +124,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow and the [so
 
 ## Governance
 
-OpenClaw is developed in the open by the [OpenClaw Foundation](https://openclaw.org), an independent 501(c)(3). The Foundation employs the core team and signs releases. Donors and infrastructure sponsors support the Foundation; none of them own or direct the project. OpenAI is a donor, not an owner.
+This fork is independently maintained by **Jahid (JAHIDS.AI)** and is not
+affiliated with or endorsed by the OpenClaw Foundation.
+
+Upstream OpenClaw is developed in the open by the [OpenClaw Foundation](https://openclaw.org), an independent 501(c)(3). The Foundation employs the core team and signs releases. Donors and infrastructure sponsors support the Foundation; none of them own or direct the project. OpenAI is a donor, not an owner.
 
 ## Community
 
